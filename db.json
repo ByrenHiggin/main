@@ -3,7 +3,7 @@
     {
       "id":1,
       "title": "Digital Compliance Gateway",
-      "tag": "prevention"
+      "tag": "prevention",
       "images": [
         {
             "src": 'https://picsum.photos/1200/800',
@@ -20,7 +20,7 @@
     {
       "id":2,
       "title": "My worksafe portal",
-      "tag": "recovery"
+      "tag": "recovery",
       "images": [
         {
             "src": 'https://picsum.photos/1200/800',
@@ -37,7 +37,7 @@
     {
       "id":3,
       "title": "My recovery update",
-      "tag": "providers"
+      "tag": "providers",
       "images": [
         {
             "src": 'https://picsum.photos/1200/800',
