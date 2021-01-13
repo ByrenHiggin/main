@@ -1,5 +1,5 @@
 {
-  data:[
+  "posts": [
     {
       "id":1,
       "title": "Digital Compliance Gateway",
@@ -51,5 +51,8 @@
         }
       ]
     },
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
